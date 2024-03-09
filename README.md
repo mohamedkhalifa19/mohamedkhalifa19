@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg](https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6Im1lbWUiLCJ0ZXh0IjoiTW9oYW1lZCUyMEFobWVkJTIwS2hhbGlmYSIsImlhdCI6MTcwOTk4NjI5NH0.lSNgomVDUwlw2YaYla37sBj5B--CegOOHA_-srN0IWI&cid=a559de6b31ef962bb8cd1abc20521b707941c7a65b47ede2&dynamic_style=meme&ep=v1_text_animate&rid=giphy.gif&ct=t)" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
