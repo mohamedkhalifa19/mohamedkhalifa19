@@ -1,20 +1,40 @@
-<div align="center" display="flex">
- <img width="550px" src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6Im1lbWUiLCJ0ZXh0IjoiTW9oYW1lZCUyMEFobWVkJTIwS2hhbGlmYSIsImlhdCI6MTcwOTk4NjI5NH0.lSNgomVDUwlw2YaYla37sBj5B--CegOOHA_-srN0IWI&cid=a559de6b31ef962bb8cd1abc20521b707941c7a65b47ede2&dynamic_style=meme&ep=v1_text_animate&rid=giphy.gif&ct=t" align="center" alt="Github Readme Stats" />
+<h2 align="left">Hi 👋! My name is Mohamed Ahmed Khalifa and I'm a Front End Developer, from Egypt </h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### Hi there 👋 I'm  Mohamed khalifa
-> computer scince student at Sadat university and problem solver 
+###
 
-<div>
- <p>
-i am a student at computer scince and problem solver.
-</p>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
 </div>
 
-### Programming Languages 🌐
+###
 
-| [<img src="https://e3arabi.com/wp-content/uploads/2021/01/6038586442907648-1.png" alt="C++" width="150">]| [<img src="https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" alt="Java" width="150">]  |
-<h3> 🤝🏻 Connect with Me </h3>
-<p align="center">
-<a href="https://www.facebook.com/mohammadahmed.khalifa" target="_blank"><img alt="Facebook" src="https://coreiten.com/articles/photos/a1642834653635a_1.jpg" width="170"></a>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
+###
+
+<br clear="both">
+
+
+###
