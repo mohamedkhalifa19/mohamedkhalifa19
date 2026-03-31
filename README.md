@@ -2,14 +2,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedkhalifa19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedkhalifa19&layout=compact&langs_count=5&theme=dracula" height="150" />
-</div>
-
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/91298305?s=400&u=0b6ba96f683e09ef129f9f023525f893914b0992&v=4" />
 
 ###
 
@@ -38,26 +33,7 @@
 
 ###
 
-### 📌 Projects
 
-#### 🧠 SumCap (Graduation Project)
-- Backend Developer (Node.js & Express)
-- Built APIs for summarizing online lectures
-- Improved content comprehension using real-time processing  
-🔗 https://github.com/mohamedkhalifa19/FinalProject_1  
-
-#### 🛒 E-commerce App
-- React.js app with filters & shopping cart  
-- State management using Hooks & Context API  
-- Routing using React Router  
-🔗 https://github.com/mohamedkhalifa19/ecommerece  
-
-#### 🏡 Real Estate Platform
-- Responsive property listing website  
-- Built with HTML, CSS (Flexbox/Grid), JavaScript  
-🔗 https://github.com/mohamedkhalifa19/realEstate  
-
-###
 
 ### 🎓 Education
 - 🎓 Bachelor's Degree – Sadat City University  
@@ -82,6 +58,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mohamedkhalifa19/mohamedkhalifa19/output/snake.svg" alt="Snake animation" />
 
 ###
