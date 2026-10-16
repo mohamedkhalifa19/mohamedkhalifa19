@@ -1,99 +1,137 @@
 <div align="center">
 
-# Mohamed Ahmed Khalifa
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohamed%20Ahmed%20Khalifa&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=React%20%C2%B7%20Next.js%20%C2%B7%20TypeScript&descSize=20&descAlignY=58" alt="Mohamed Ahmed Khalifa - React, Next.js, TypeScript" width="100%" />
 
-### Front-End Developer · React.js · Next.js · TypeScript
+<a href="https://github.com/mohamedkhalifa19">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=620&lines=Front-End+Developer;Building+responsive+React+%26+Next.js+apps;Reusable+components+%C2%B7+Clean+code+%C2%B7+Performance" alt="Typing animation: Front-End Developer" />
+</a>
 
-I build responsive, maintainable, user-focused web applications.
-Based in Badr City, Egypt.
+<br/>
 
 <a href="mailto:muhamed.ahmed.khalifa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/mohamed-ahmed-khalifa-5b833024a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/mohamedkhalifa19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<!-- Add your portfolio here:
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<!-- Add your portfolio:
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 -->
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Based_in-Badr_City%2C_Egypt-2ea44f?style=flat-square" alt="Location" />
+<img src="https://img.shields.io/badge/Open_to-Front--End_Roles-61DAFB?style=flat-square&labelColor=20232A" alt="Open to Front-End roles" />
+<img src="https://img.shields.io/badge/Languages-Arabic_%7C_English-blueviolet?style=flat-square" alt="Languages" />
 
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-I'm a Front-End Developer who specializes in **React.js**, **Next.js**, **TypeScript**, and **JavaScript (ES6+)**. I enjoy turning designs into fast, responsive interfaces built from reusable components, and I care about clean, maintainable code.
+I'm a **Front-End Developer** focused on **React.js**, **Next.js**, and **TypeScript**. I like turning ideas into fast, responsive interfaces made from reusable components, and I care about code that stays easy to maintain.
 
-- Building reusable UI components and managing application state
-- Integrating RESTful APIs and authentication flows
-- Responsive design and performance optimization
-- Full-stack exposure with Node.js, Express, Supabase, and Prisma
+|  |  |
+|---|---|
+| 🧩 **Focus** | Reusable components, state management, responsive UI |
+| 🔌 **Integration** | RESTful APIs, authentication, Supabase |
+| ⚡ **Priorities** | Performance, clean architecture, user experience |
+| 🛠️ **Full-stack exposure** | Node.js, Express, Prisma, MySQL |
+| 🎓 **Education** | B.Sc. Computer Science, Sadat City University (Very Good, B+) |
 
-I hold a Bachelor of Computer Science from Sadat City University (Very Good, B+), and I'm open to Front-End and React/Next.js developer opportunities.
+---
 
-## Technical Skills
-
-**Front-End**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Styling**
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Back-End & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Other:** C++ · Data Structures & Algorithms · Problem Solving · AI-assisted development (ChatGPT, GitHub Copilot, Claude)
-
-## Featured Projects
-
-### E-commerce Application
-A full-featured storefront built with **Next.js, TypeScript, Tailwind CSS, and Supabase**.
-- Product search and filtering, cart, wishlist, and checkout
-- Authentication and user data handled through Supabase Auth and Database
-- Reusable, responsive components designed for performance and maintainability
-
-<!-- Add: [Live Demo](URL) · [Source Code](URL) -->
-
-### Nassar Perfumes Store
-A responsive perfume store where users can browse, search, and purchase products through a simple shopping experience.
-
-<!-- Add: [Live Demo](URL) · [Source Code](URL) -->
-
-### SumCap — Graduation Project
-A platform that summarizes online lectures to improve content comprehension. I worked as the **Backend Developer**.
-- Built server-side functionality with Node.js and Express
-- Developed RESTful APIs and managed data flow for real-time content processing
-
-<!-- Add: [Source Code](URL) -->
-
-## GitHub Activity
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mohamedkhalifa19&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkhalifa19&layout=compact&hide_border=true" alt="Top languages" />
+**Front-End & Styling**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap&perline=8" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap" />
+
+**Back-End & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,prisma,mysql&perline=8" alt="Node.js, Express, Supabase, Prisma, MySQL" />
+<br/>
+<img src="https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white" alt="Strapi" />
+
+**Tools & Other**
+
+<img src="https://skillicons.dev/icons?i=git,github,npm,vite,cpp&perline=8" alt="Git, GitHub, npm, Vite, C++" />
+
+<sub>Also: Data Structures & Algorithms · Problem Solving · AI-assisted development (ChatGPT, GitHub Copilot, Claude)</sub>
 
 </div>
 
-## Let's Connect
+---
 
-I'm looking for opportunities to build great front-end experiences with a collaborative team. If you'd like to talk about a role, a project, or an idea, feel free to reach out at [muhamed.ahmed.khalifa@gmail.com](mailto:muhamed.ahmed.khalifa@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-khalifa-5b833024a/).
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-commerce Application
+A full-featured storefront built with **Next.js, TypeScript, Tailwind CSS, and Supabase**.
+
+- Product search and filtering
+- Cart, wishlist, and checkout
+- Supabase Auth and Database for users and app data
+- Reusable, responsive components built for performance and maintainability
+
+<!-- Add: [Live Demo](URL) · [Source Code](URL) -->
+
+</td>
+<td width="50%" valign="top">
+
+### 🧴 Nassar Perfumes Store
+A responsive perfume store where users can explore, search, and purchase products through a smooth shopping experience.
+
+<br/>
+
+<!-- Add stack, e.g. "Built with ..." once confirmed -->
+<!-- Add: [Live Demo](URL) · [Source Code](URL) -->
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎓 SumCap: Graduation Project
+A platform that summarizes online lectures to improve content comprehension. **Role: Backend Developer.**
+
+- Built server-side functionality with **Node.js and Express**
+- Developed **RESTful APIs** and managed data flow for real-time content processing
+
+<!-- Add: [Source Code](URL) -->
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamedkhalifa19&show_icons=true&hide_border=true&theme=transparent&title_color=61DAFB&icon_color=61DAFB&text_color=8b949e" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkhalifa19&layout=compact&hide_border=true&theme=transparent&title_color=61DAFB&text_color=8b949e" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=mohamedkhalifa19&hide_border=true&background=00000000&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&stroke=8b949e55&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" alt="GitHub streak" />
+
+</div>
+
+<sub>Stats are generated by third-party services and may take a moment to load.</sub>
+
+---
+
+## 🤝 Let's Connect
+
+I'm looking for a Front-End / React / Next.js role where I can build polished products with a collaborative team. If you'd like to talk about an opportunity or a project, reach out:
+
+<div align="center">
+
+<a href="mailto:muhamed.ahmed.khalifa@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-muhamed.ahmed.khalifa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=90&section=footer" alt="" width="100%" />
+
+</div>
